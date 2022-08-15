@@ -2,7 +2,7 @@
 provider_region = "us-east-1"
 
 DMS-Instance = {
-  "Data-Base-Migration-Service" = {
+  "Data-Base-Migration-Service-Instance" = {
     replication_instance_class  = "dms.t2.micro"
     replication_instance_id     = "test-dms-replication-instance"
     engine_version              = "3.1.4"
